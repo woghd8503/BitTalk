@@ -1,0 +1,9 @@
+D:\BitTalk\LAL\LAL\bin\Debug\LAL.exe.config
+D:\BitTalk\LAL\LAL\bin\Debug\LAL.exe
+D:\BitTalk\LAL\LAL\bin\Debug\LAL.pdb
+D:\BitTalk\LAL\LAL\obj\Debug\LAL.csprojAssemblyReference.cache
+D:\BitTalk\LAL\LAL\obj\Debug\LAL.Properties.Resources.resources
+D:\BitTalk\LAL\LAL\obj\Debug\LAL.csproj.GenerateResource.cache
+D:\BitTalk\LAL\LAL\obj\Debug\LAL.csproj.CoreCompileInputs.cache
+D:\BitTalk\LAL\LAL\obj\Debug\LAL.exe
+D:\BitTalk\LAL\LAL\obj\Debug\LAL.pdb
