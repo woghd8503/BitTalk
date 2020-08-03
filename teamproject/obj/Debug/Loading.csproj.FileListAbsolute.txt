@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\bin\Debug\teamproject.exe.config
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\bin\Debug\teamproject.exe
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\bin\Debug\teamproject.pdb
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\Loading.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\teamproject.Form1.resources
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\teamproject.Properties.Resources.resources
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\Loading.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\teamproject.exe
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\teamproject.pdb
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\teamproject.Form2.resources
+C:\Users\Admin\Desktop\BitCamp\문상환 강사님\TeamProject\C# Project\teamproject\obj\Debug\teamproject.MainForm.resources
